@@ -1,2 +1,3 @@
 # THE-SEWA-FOUNFATION
-A simple website for the NGO with payment integration for donations
+A simple website for an NGO with payment integration with razorpay 
+secured payment process.
